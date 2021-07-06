@@ -1,2 +1,2 @@
 # Pract
-example
+Example
